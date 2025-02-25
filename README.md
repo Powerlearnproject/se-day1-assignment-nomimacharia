@@ -5,12 +5,13 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is abranch in computer science of computer science used for developin testing and maintaining software.
-some of the importance in technology include;
- 1.reliability -it ensures software performs as expected
- 2.sscaability and flexibility-it ensures that the system can handle an increase in load without affecting it's performance
- 3.efficiency-it helps to optimize developers workflow whilw maintaining high quality standards.
- 4.security-implements protection practises like authentication authorization and encryption to secure user information 
+some of the importance in technology include
+ .reliability -it ensures software performs as expected
+ .sscaability and flexibility-it ensures that the system can handle an increase in load without affecting it's performance
+ .efficiency-it helps to optimize developers workflow whilw maintaining high quality standards.
+ .security-implements protection practises like authentication authorization and encryption to secure user information 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1.mastering complexity
@@ -59,7 +60,8 @@ Quality Assurance Engineer - collaborate with stakeholders to understand and cl
 
 
 
-Discuss the importance of Integrated Development Environments and Version Control Systems in the software development process. Give examples of each.An integrated development environment is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
+Discuss the importance of Integrated Development Environments and Version Control Systems in the software development process. Give examples of each.
+An integrated development environment is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts
 Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for
 automatically writing or editing the source code.
 
@@ -87,6 +89,7 @@ Solution: research ways to defend against hacking, malware, phishing, insider an
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
 
  Integration tests - verify that different modules or services used by your application work well together.
@@ -101,6 +104,7 @@ Acceptance tests - are formal tests that verify if a system satisfies business 
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 
 Importance:

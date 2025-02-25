@@ -5,12 +5,25 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Software engineering is abranch in computer science of computer science used for developin testing and maintaining software.
+some of the importance in technology include;
+ 1.reliability -it ensures software performs as expected
+ 2.sscaability and flexibility-it ensures that the system can handle an increase in load without affecting it's performance
+ 3.efficiency-it helps to optimize developers workflow whilw maintaining high quality standards.
+ 4.security-implements protection practises like authentication authorization and encryption to secure user information 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+1.mastering complexity
+2. mastering proces 
+mastering machine
 
 List and briefly explain the phases of the Software Development Life Cycle.
+planning -identify the software requirement or purpose and scope
+requirement analysis-identify the final user specification
+design-build the framework
+coding-converting software design into tangible code
+testing -examine the softwarw for bugs
+
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
